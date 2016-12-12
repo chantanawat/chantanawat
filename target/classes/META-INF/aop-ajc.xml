@@ -1,0 +1,12 @@
+<aspectj>
+<aspects>
+<aspect name="com.roo.test.domain.Gold_Roo_Configurable"/>
+<aspect name="com.roo.test.domain.Gold_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.roo.test.domain.Gold_Roo_Jpa_Entity"/>
+<aspect name="com.roo.test.domain.GoldController_Roo_Controller"/>
+<aspect name="com.roo.test.domain.Gold_Roo_JavaBean"/>
+<aspect name="com.roo.test.domain.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="com.roo.test.domain.Gold_Roo_ToString"/>
+</aspects>
+</aspectj>
+
